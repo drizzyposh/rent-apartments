@@ -4,7 +4,7 @@ A home market place where users can come and register and they can list their ho
 
 This project was built using React.js and Firebase where users get to:
 - Register users
-- Add/Save and delete users data to firestore database
+- Add/Save and delete users data from firestore database
 - Log in, Sign up and log out
 - Login using Google auth
 - Update users details in the database from firestore
