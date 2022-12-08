@@ -1,6 +1,6 @@
 # rent-apartments
 
-A home market place where users can come and register and they can list their home or aparments for rent or for sale. They can also add it as special offer. The design and layouts were built for mobile devices, but aswell we can use it on desktop. 
+A home market place where users can come and register and they can list their home or aparments for rent or for sale. They can also add it as special offer. The design and layouts were built for mobile devices specifically , but aswell we can use it on desktop. 
 
 This project was built using React.js and Firebase where users get to:
 - Register users
