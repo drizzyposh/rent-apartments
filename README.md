@@ -12,7 +12,7 @@ A home market place where users can come and register and they can list their ho
   
 
 
-* Features
+### Features
 
 - Register users
 - Add/Save and delete users data from firestore database
